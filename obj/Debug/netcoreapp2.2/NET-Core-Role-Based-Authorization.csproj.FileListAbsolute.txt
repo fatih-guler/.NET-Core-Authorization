@@ -1,0 +1,14 @@
+/home/developer/Desktop/NET-Core-Role-Based-Authorization/bin/Debug/netcoreapp2.2/NET-Core-Role-Based-Authorization.deps.json
+/home/developer/Desktop/NET-Core-Role-Based-Authorization/bin/Debug/netcoreapp2.2/NET-Core-Role-Based-Authorization.runtimeconfig.json
+/home/developer/Desktop/NET-Core-Role-Based-Authorization/bin/Debug/netcoreapp2.2/NET-Core-Role-Based-Authorization.runtimeconfig.dev.json
+/home/developer/Desktop/NET-Core-Role-Based-Authorization/bin/Debug/netcoreapp2.2/NET-Core-Role-Based-Authorization.dll
+/home/developer/Desktop/NET-Core-Role-Based-Authorization/bin/Debug/netcoreapp2.2/NET-Core-Role-Based-Authorization.pdb
+/home/developer/Desktop/NET-Core-Role-Based-Authorization/obj/Debug/netcoreapp2.2/NET-Core-Role-Based-Authorization.csprojAssemblyReference.cache
+/home/developer/Desktop/NET-Core-Role-Based-Authorization/obj/Debug/netcoreapp2.2/NET-Core-Role-Based-Authorization.csproj.CoreCompileInputs.cache
+/home/developer/Desktop/NET-Core-Role-Based-Authorization/obj/Debug/netcoreapp2.2/NET-Core-Role-Based-Authorization.RazorAssemblyInfo.cache
+/home/developer/Desktop/NET-Core-Role-Based-Authorization/obj/Debug/netcoreapp2.2/NET-Core-Role-Based-Authorization.RazorAssemblyInfo.cs
+/home/developer/Desktop/NET-Core-Role-Based-Authorization/obj/Debug/netcoreapp2.2/NET-Core-Role-Based-Authorization.AssemblyInfoInputs.cache
+/home/developer/Desktop/NET-Core-Role-Based-Authorization/obj/Debug/netcoreapp2.2/NET-Core-Role-Based-Authorization.AssemblyInfo.cs
+/home/developer/Desktop/NET-Core-Role-Based-Authorization/obj/Debug/netcoreapp2.2/NET-Core-Role-Based-Authorization.RazorTargetAssemblyInfo.cache
+/home/developer/Desktop/NET-Core-Role-Based-Authorization/obj/Debug/netcoreapp2.2/NET-Core-Role-Based-Authorization.dll
+/home/developer/Desktop/NET-Core-Role-Based-Authorization/obj/Debug/netcoreapp2.2/NET-Core-Role-Based-Authorization.pdb
